@@ -1,0 +1,17 @@
+https://github.com/settings/billing/plans
+PLAN Pro (dgCyrilDevTeam)
+Actions 0 of 3000 included private min
+Packages 0 of 2.GB included data transfer out
+Storage 0 of 2.GB
+until feb 05
+GST I N..
+JIRA
+Boards can only be accessed by users with an active Jira Software license.
+FYI ..The DVCS Connector for GitHub.com (the GitHub enterprise connection has no date to move over yet) will no longer be supported as of June 30th, 2019.
+
+Using the old GitHub integration? This gets Digital Team...
+The legacy ability to connect Jira Software and GitHub via the Jira DVCS connector is now deprecated in favor of this new GitHub-maintained integration. Note: GitHub Enterprise customers who are using the DVCS Connector will be unaffected at this time. 
+Stay tuned for updates on an upcoming Jira Software and GitHub Enterprise integration.
+
+Jira Cloud • Released 2019-03-15
+https://tei213.atlassian.net/
